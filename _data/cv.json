@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Bishnu Prasad Belbase",
+    "email": "bishnu@purdue.edu",
+    "phone": "515-694-3111",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently employed at Purdue University University. Doing work related to condensed matter physics",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "West lafayette",
       "countryCode": "US",
       "region": ""
     },
