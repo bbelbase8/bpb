@@ -23,7 +23,7 @@ repository               : "bbelbase8/bpb"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bishnu.jpg"
+  avatar           : "profile.png"
   name             : "Bishnu Prasad Belbase"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
