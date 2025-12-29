@@ -1,3 +1,4 @@
+--- permalink: / title: "Physics behind my life" author_profile: true redirect_from: - /about/ - /about.html ---
 ## About me
 
 I am a PhD student in experimental condensed matter physics in the Department of Physics and Astronomy at Purdue University. My research focuses on quantum magnetism and strongly correlated electron systems, with particular emphasis on rare-earth–based quantum materials. I am especially interested in low-energy spin dynamics, frustrated magnetism, and emergent quantum phases in low-dimensional systems.
