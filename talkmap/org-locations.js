@@ -5,7 +5,7 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />Purdue University; West Lafayette, Indiana",
+    "Preliminary Exam: Signature of Order and Disorder in Low-dimensional Spin-1/2 Frustrated Magnets<br />Purdue University; West Lafayette, Indiana",
     40.4258686,
     -86.9080655
   ],
