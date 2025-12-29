@@ -5,9 +5,9 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Preliminary Exam: Signature of Order and Disorder in Low-dimensional Spin-1/2 Frustrated Magnets<br />Purdue University; West Lafayette, Indiana",
-    40.4258686,
-    -86.9080655
+    "Magnetism in Ytterbium-Based Spin-\u00bd Triangular-Lattice Delafossites<br />Global Physics Summit 2025 (APS March Meeting); Los Angeles, CA, USA",
+    34.0536909,
+    -118.242766
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Magnetism in Ytterbium-Based Spin-\u00bd Triangular-Lattice Delafossites<br />Global Physics Summit 2025 (APS March Meeting); Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Preliminary Exam: Signature of Order and Disorder in Low-dimensional Spin-1/2 Frustrated Magnets<br />Purdue University; West Lafayette, Indiana",
+    40.4258686,
+    -86.9080655
   ]
 ];
