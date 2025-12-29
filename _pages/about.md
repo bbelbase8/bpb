@@ -1,6 +1,6 @@
 --- 
 permalink:/
-title: "Physics behind my life"
+title:"Physics behind my life"
 author_profile: true
 redirect_from:
  -/about/
