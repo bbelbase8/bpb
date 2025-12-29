@@ -1,37 +1,30 @@
----
-permalink: /
-title: "Physics behind my life"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 ## About me
 
-I am a PhD student in experimental condensed matter physics at Purdue University. My research focuses on quantum magnetism and correlated electron systems, with an emphasis on rare-earth–based quantum materials. I am particularly interested in low-energy spin dynamics, frustrated magnetism, and emergent phenomena in low-dimensional systems.
+I am a PhD student in experimental condensed matter physics in the Department of Physics and Astronomy at Purdue University. My research focuses on quantum magnetism and strongly correlated electron systems, with particular emphasis on rare-earth–based quantum materials. I am especially interested in low-energy spin dynamics, frustrated magnetism, and emergent quantum phases in low-dimensional systems.
 
-My work combines crystal growth, thermodynamic and magnetic measurements, and neutron scattering techniques to understand how collective quantum behavior emerges in real materials. I have experience working with single crystals and polycrystalline samples, and I regularly collaborate with national laboratories and international research groups.
+Prior to joining Purdue, I received my undergraduate and master’s training in physics at Tribhuvan University, Nepal. During this period, I was involved in research at the Central Department of Physics, where I worked in collaboration with the Advanced Materials Research Laboratory (AMRL). This work provided a strong theoretical foundation and early exposure to the electronic and magnetic properties of quantum materials, motivating my transition toward experimental research.
+
+At Purdue University, my work combines single-crystal growth, ultra-low-temperature thermodynamic and magnetic measurements, electrical transport, and neutron scattering experiments to investigate collective quantum behavior in real materials. I have experience working with both single-crystalline and polycrystalline samples and regularly collaborate with national laboratories and international research groups.
 
 ---
 
 ## Research interests
 
 - Quantum magnetism and frustrated spin systems  
-- Rare-earth triangular and kagome lattice materials  
-- Low-temperature thermodynamic and magnetic measurements  
+- Rare-earth–based triangular-lattice and kagome materials  
+- Low-energy spin dynamics and emergent quantum phases  
+- Ultra-low-temperature thermodynamic and magnetic measurements  
 - Neutron scattering and spectroscopy  
-- Crystal electric field effects and spin dynamics  
+- Crystal electric field effects in correlated materials  
 
 ---
 
 ## Academic background
 
-Before joining Purdue University, I received my undergraduate training in physics, where I developed a strong foundation in theoretical and computational methods. During my doctoral studies, I shifted toward experimental condensed matter physics, motivated by understanding how theoretical concepts manifest in real quantum materials.
+My academic training began with a strong emphasis on theoretical and computational physics during my studies at Tribhuvan University. Through research experience and international collaborations, I developed a growing interest in understanding how theoretical concepts in quantum materials manifest in experiments. This motivation led me to pursue doctoral research in experimental condensed matter physics, where I now focus on uncovering emergent phenomena in strongly correlated quantum systems.
 
 ---
 
 ## This website
 
-This website serves as a record of my research activities, including publications, talks, teaching experience, and ongoing projects. It is intended for researchers, collaborators, and students interested in quantum materials and condensed matter physics.
-
-Please feel free to explore the different sections or contact me for collaboration or discussion.
+This website documents my research activities, including publications, talks, teaching experience, and ongoing projects. It is intended as a resource for researchers, collaborators, and students interested in quantum materials and condensed matter physics. Please feel free to explore the site or reach out for discussion or collaboration.
