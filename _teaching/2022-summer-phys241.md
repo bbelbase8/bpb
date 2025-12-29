@@ -8,4 +8,4 @@ date: 2022-06-01
 location: "West Lafayette, Indiana, USA"
 ---
 
-Teaching assistant for PHYS 241 (Electricity and Optics).
+Graduate teaching assistant for PHYS 241 (Electricity and Optics).
