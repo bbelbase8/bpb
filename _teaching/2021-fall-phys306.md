@@ -8,4 +8,4 @@ date: 2021-08-01
 location: "West Lafayette, Indiana, USA"
 ---
 
-Served as a teaching assistant for PHYS 306 (Mathematical Methods of Physics I). Responsibilities included leading recitation sessions, grading assignments and exams, and providing academic support to undergraduate students.
+Served as a teaching assistant for PHYS 306 (Mathematical Methods of Physics I). 
