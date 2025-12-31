@@ -21,22 +21,19 @@ redirect_from:
   Butwal Multiple Campus, Tribhuvan University, Butwal, Nepal  
 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Research Experience
+========
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2021–present: Ph.D. Student and Graduate Research Assistant**  
+  Department of Physics and Astronomy, Purdue University, West Lafayette, Indiana, USA  
+  **Advisor:** Prof. Dr. Arnab Banerjee  
+  **Project synopsis:** Design, synthesis, and low-temperature characterization of quantum materials, with emphasis on frustrated magnetism, topological phases, and correlated electron systems.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **2017–2021: Junior Research Fellow**  
+  Central Department of Physics, Tribhuvan University, Kirtipur, Nepal  
+  **Advisor:** Prof. Dr. Madhav Prasad Ghimire  
+  **Project synopsis:** First-principles investigation of electronic, magnetic, optical, and thermoelectric properties of correlated and functional materials using density functional theory.
+
   
 Skills
 ======
