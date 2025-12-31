@@ -34,6 +34,13 @@ Research Experience
   **Advisor:** Prof. Dr. Madhav Prasad Ghimire  
   **Project synopsis:** First-principles investigation of electronic, magnetic, optical, and thermoelectric properties of correlated and functional materials using density functional theory.
 
+Awards
+======
+
+* Group on Magnetism and Its Applications (GMAG) Student Travel Award, American Physical Society, March 2025.
+* Certificate of participation and paper presentation at the 1st International e-Conference on Recent Advances in Physics and Material Science (IC-RAPMS 2020), Kurseong College, India, July 2020.
+* Best Poster Presentation Award at the International Conference on Nanoscience and High Energy Physics (ICNHEP 2019), Central Department of Physics, Kirtipur, Nepal, February 2019.
+* Research grant from Sainamaina Municipality, Rupandehi, Nepal, for the project “Signatures of Low-Dimensional Magnetism and Short-Range Magnetic Order in Co-Based Trirutiles,” 2019.
 
 Collaborations
 ========
