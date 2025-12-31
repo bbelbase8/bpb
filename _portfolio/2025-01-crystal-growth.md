@@ -28,7 +28,7 @@ Representative materials synthesized include:
 - Related rare-earth chalcogenides and intermetallic compounds
 
 <div style="margin-top: 1em;">
-  <img src="/images/BCAO.png" alt="Single crystals grown by flux method" width="450">
+  <img src="/images/portfolio/crystal-growth/BCAO.png" alt="Single crystals grown by flux method" width="450">
 </div>
 
 ---
