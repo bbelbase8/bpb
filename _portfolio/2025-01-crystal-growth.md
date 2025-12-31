@@ -1,6 +1,6 @@
 ---
 title: "Crystal Growth and Sample Preparation of Quantum Magnetic Materials"
-excerpt: "Single-crystal and polycrystalline synthesis of correlated quantum materials using flux growth, chemical vapor transport, and solid-state reaction techniques."
+excerpt: "Single-crystal and polycrystalline synthesis of correlated quantum materials using flux growth, chemical vapor transport, and solid-state reaction techniques.<br><img src='{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png' width='350'>"
 collection: portfolio
 ---
 
@@ -12,13 +12,14 @@ I have extensive hands-on experience in the synthesis of high-quality single-cry
 
 ## Single-Crystal Growth
 
-I have grown single crystals using multiple techniques, selected according to material chemistry, phase stability, and volatility:
+I have grown single crystals using multiple techniques, depending on material chemistry and phase stability:
 
 - **Flux growth** for layered and intermetallic compounds  
 - **Chemical vapor transport (CVT)** for halides and chalcogenides  
 - **Bridgman growth** for selected bulk crystals  
 
 Representative materials synthesized include:
+
 - TlYbSe₂ (single crystals)
 - TlYbS₂ (single crystals)
 - YbCr₆Ge₆
@@ -27,8 +28,8 @@ Representative materials synthesized include:
 - BaCo₂(AsO₄)₂
 - Related rare-earth chalcogenides and intermetallic compounds
 
-<div style="margin-top: 1em;">
-  <img src="/images/portfolio/crystal-growth/BCAO.png" alt="Single crystals grown by flux method" width="450">
+<div style="margin-top:1em;">
+<img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png" width="450" alt="Single crystals grown by flux method">
 </div>
 
 ---
@@ -37,11 +38,9 @@ Representative materials synthesized include:
 
 For systematic studies and bulk measurements, I routinely prepare polycrystalline samples using:
 
-- Solid-state reaction techniques  
-- Multiple grinding and annealing cycles  
-- Controlled-atmosphere synthesis for air-sensitive materials  
-
-Powder samples are optimized for phase purity and homogeneity prior to characterization.
+- Solid-state reaction methods
+- Multiple grinding and annealing cycles
+- Controlled atmosphere synthesis for air-sensitive materials
 
 ---
 
@@ -49,23 +48,20 @@ Powder samples are optimized for phase purity and homogeneity prior to character
 
 I am experienced in advanced sample preparation workflows, including:
 
-- **Quartz tube sealing using a blowtorch** under vacuum or inert gas  
-- **High-temperature furnace operation** with controlled thermal profiles  
-- **Glovebox handling** of air- and moisture-sensitive materials  
-- Safe handling, storage, and disposal of reactive chemicals  
+- Quartz tube sealing using a blowtorch under vacuum or inert gas
+- High-temperature furnace operation with controlled thermal profiles
+- Glovebox handling of air- and moisture-sensitive materials
 
-<div style="margin-top: 1em;">
-  <img src="/images/portfolio/crystal-growth/BCAO.png" alt="Quartz tube sealing using blowtorch" width="450">
+<div style="margin-top:1em;">
+<img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png" width="450" alt="Quartz tube sealing and furnace setup">
 </div>
 
 ---
 
 ## Outcome and Applications
 
-The single-crystal and polycrystalline samples synthesized through this work have been successfully used for:
+The samples synthesized through this work have been used in:
 
-- Low-temperature heat capacity, magnetization, and transport measurements  
-- Ultra-low-temperature AC susceptibility experiments  
-- Neutron scattering and high-field measurements at national laboratories  
-
-This synthesis and preparation work provides the experimental foundation for detailed investigations of magnetism, topology, and correlated electron behavior in quantum materials.
+- Heat capacity, magnetization, and transport measurements
+- Ultra-low-temperature AC susceptibility experiments
+- Neutron scattering and high-field measurements at national laboratories
