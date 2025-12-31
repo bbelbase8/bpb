@@ -53,6 +53,35 @@ Collaborations
 * **2018:** Collaboration with Dr. Harikrishnan S. Nair and collaborators on signatures of low-dimensional magnetism and short-range magnetic order in Co-based trirutiles.  
   Department of Physics, University of Texas at El Paso, El Paso, Texas, USA.
 
+Technical Skills
+================
+
+**Crystal growth**
+* Single-crystal synthesis: flux growth, chemical vapor transport (CVT), Bridgman growth
+* Polycrystalline sample synthesis: solid-state reaction
+* Quartz tube sealing using a blowtorch
+* Safe handling of chemicals with proper laboratory management
+* Operation of glove boxes for air-sensitive materials
+
+**Characterization**
+* Single-crystal Laue X-ray diffraction
+* Powder X-ray diffraction
+* Neutron scattering experiments
+* Magnetization, heat capacity, and transport measurements using Quantum Design MPMS and PPMS
+* Two-dimensional sample exfoliation
+
+**Data analysis and theoretical calculations**
+* Density functional theory (DFT) calculations of electronic, magnetic, optical, and topological properties
+* X-ray diffraction data analysis
+* Neutron scattering data analysis
+
+**Programming languages and computational tools**
+* LaTeX, Fortran, Python, Origin, Gnuplot, XMGrace
+* FullProf, GSAS-II, Mantid, SARAh
+* Full-Potential Local-Orbital (FPLO) code
+* WIEN2k
+* Quantum ESPRESSO
+* Windows and Linux
 
 Skills
 ======
