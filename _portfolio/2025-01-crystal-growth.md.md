@@ -22,11 +22,13 @@ Representative materials synthesized include:
 - TlYbSe₂ (single crystals)
 - TlYbS₂ (single crystals)
 - YbCr₆Ge₆
-- Co-based trirutiles
+- GdTe3
+- RI3
+- BaCo2(AsO4)2
 - Related rare-earth chalcogenides and intermetallics
 
 <div style="margin-top: 1em;">
-<img src="/images/portfolio/crystal-growth/crystals-1.jpg" alt="Single crystals grown by flux method" width="450">
+<img src="/images/portfolio/crystal-growth/BCAO.png" alt="Single crystals grown by flux method" width="450">
 </div>
 
 ---
