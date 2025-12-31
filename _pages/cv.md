@@ -9,11 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+ Education
+=========
+* **2021–present**: Ph.D. in Condensed Matter Physics  
+  Purdue University, West Lafayette, Indiana, USA  
+
+* **2016–2021**: Master of Science in Physics  
+  Central Department of Physics, Tribhuvan University, Kirtipur, Nepal  
+
+* **2012–2016**: Bachelor of Science in Physics  
+  Butwal Multiple Campus, Tribhuvan University, Butwal, Nepal  
+
 
 Work experience
 ======
