@@ -107,7 +107,18 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+  Membership
+==========
+
+* Condensed Matter Physics Research Center (CMPRC), Butwal, Nepal (2016–present)
+* Treasurer, Nepali Society at Purdue, Purdue University, West Lafayette, USA (2022–2023)
+
+
+Language Proficiency
+====================
+
+* English
+* Nepali
+* Hindi
+
