@@ -55,7 +55,7 @@ I am experienced in advanced sample preparation workflows, including:
 - Safe handling and storage of reactive chemicals
 
 <div style="margin-top: 1em;">
-<img src="/images/portfolio/crystal-growth/blowtorch-sealing.jpg" alt="Quartz tube sealing using blowtorch" width="450">
+<img src="/images/portfolio/crystal-growth/BCAO.png" alt="Quartz tube sealing using blowtorch" width="450">
 </div>
 
 ---
