@@ -1,7 +1,7 @@
 ---
 title: "Criticality and Magnetic Phases of Ising Shastry–Sutherland Candidate Holmium Tetraboride"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/criticality-hob4
 date: 2025-05-26
 venue: "Materials 18(11), 2504 (2025)"
