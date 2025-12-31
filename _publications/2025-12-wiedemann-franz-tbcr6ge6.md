@@ -7,7 +7,7 @@ excerpt: "Experimental evidence for a breakdown of the Wiedemann–Franz law and
 date: 2025-12-18
 venue: "arXiv preprint"
 paperurl: "https://arxiv.org/abs/2512.16868"
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+#bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 authors:
   - Jhinkyu Choi
   - Mohan B. Neupane
