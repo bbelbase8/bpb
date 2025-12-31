@@ -1,7 +1,7 @@
 ---
 title: "Electronic Structure, Optical Properties and Defect-Induced Half-Metallic Ferromagnetism in Kagome Cs₂Ni₃S₄"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/cs2ni3s4
 date: 2023-11-16
 venue: "Electronic Structure 5, 045008 (2023)"
