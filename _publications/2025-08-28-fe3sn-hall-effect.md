@@ -2,7 +2,7 @@
 title: "Large anomalous Hall effect in single crystals of the kagome Weyl ferromagnet Fe₃Sn"
 collection: publications
 category: manuscripts
-permalink: /publication/fe3sn-hall-effect
+permalink: /publication/2025-08-28-fe3sn-hall-effect
 date: 2023-08-28
 venue: "Physical Review B 108, 075164 (2023)"
 paperurl: "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.075164"
