@@ -20,16 +20,18 @@ I have grown single crystals using multiple techniques, depending on material ch
 
 Representative materials synthesized include:
 
-- TlYbSe₂ (single crystals)
-- TlYbS₂ (single crystals)
-- YbCr₆Ge₆
-- GdTe₃
-- RI₃
-- BaCo₂(AsO₄)₂
-- Related rare-earth chalcogenides and intermetallic compounds
+- TlYbSe₂ (single crystals)  
+- TlYbS₂ (single crystals)  
+- YbCr₆Ge₆  
+- GdTe₃  
+- RI₃  
+- BaCo₂(AsO₄)₂  
+- Related rare-earth chalcogenides and intermetallic compounds  
 
-<div style="margin-top:1em;">
-<img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png" width="450" alt="Single crystals grown by flux method">
+<div style="margin-top: 1em; margin-bottom: 1em;">
+  <img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png"
+       alt="Single crystals grown by flux method"
+       width="450">
 </div>
 
 ---
@@ -38,9 +40,11 @@ Representative materials synthesized include:
 
 For systematic studies and bulk measurements, I routinely prepare polycrystalline samples using:
 
-- Solid-state reaction methods
-- Multiple grinding and annealing cycles
-- Controlled atmosphere synthesis for air-sensitive materials
+- Solid-state reaction methods  
+- Multiple grinding and annealing cycles  
+- Controlled-atmosphere synthesis for air-sensitive materials  
+
+Powder samples are optimized for phase purity and homogeneity prior to characterization.
 
 ---
 
@@ -48,20 +52,25 @@ For systematic studies and bulk measurements, I routinely prepare polycrystallin
 
 I am experienced in advanced sample preparation workflows, including:
 
-- Quartz tube sealing using a blowtorch under vacuum or inert gas
-- High-temperature furnace operation with controlled thermal profiles
-- Glovebox handling of air- and moisture-sensitive materials
+- **Quartz tube sealing using a blowtorch** under vacuum or inert gas  
+- **High-temperature furnace operation** with precise thermal profiles  
+- **Glovebox handling** of air- and moisture-sensitive materials  
+- Safe handling and storage of reactive chemicals  
 
-<div style="margin-top:1em;">
-<img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png" width="450" alt="Quartz tube sealing and furnace setup">
+<div style="margin-top: 1em; margin-bottom: 1em;">
+  <img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png"
+       alt="Quartz tube sealing and crystal growth workflow"
+       width="450">
 </div>
 
 ---
 
 ## Outcome and Applications
 
-The samples synthesized through this work have been used in:
+The crystals and polycrystalline samples I have synthesized have been successfully used for:
 
-- Heat capacity, magnetization, and transport measurements
-- Ultra-low-temperature AC susceptibility experiments
-- Neutron scattering and high-field measurements at national laboratories
+- Heat capacity, magnetization, and transport measurements  
+- Ultra-low-temperature AC susceptibility experiments  
+- Neutron scattering and high-field measurements at national laboratories  
+
+This synthesis work provides the foundation for detailed experimental investigations of magnetism, topology, and correlated electron behavior in quantum materials.
