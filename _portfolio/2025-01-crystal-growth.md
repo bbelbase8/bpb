@@ -27,12 +27,28 @@ Representative materials synthesized include:
 - RI₃  
 - BaCo₂(AsO₄)₂  
 - Related rare-earth chalcogenides and intermetallic compounds  
-<br/><img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png"
-     alt="Single crystals grown by flux method"
-     width="450">
-<img src="{{ site.baseurl }}/images/portfolio/crystal-growth/GdTe3.jpg"
-     alt="Single crystals grown by flux method"
-     width="450">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 2em 0;">
+
+  <figure style="text-align: center; max-width: 45%;">
+    <img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png"
+         alt="Flux-grown single crystal"
+         style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.9em; color: #555;">
+      Flux-grown single crystal showing large plate-like morphology.
+    </figcaption>
+  </figure>
+
+  <figure style="text-align: center; max-width: 45%;">
+    <img src="{{ site.baseurl }}/images/portfolio/crystal-growth/GdTe3.jpg"
+         alt="GdTe3 single crystals"
+         style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.9em; color: #555;">
+      Representative GdTe₃ single crystals obtained after flux decanting.
+    </figcaption>
+  </figure>
+
+</div>
+
 
 
 ---
