@@ -33,7 +33,12 @@ Representative materials synthesized include:
 <img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png"
      alt="Single crystals grown by flux method"
      width="450">
-
+<img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png"
+     alt="Single crystals grown by flux method"
+     width="450">
+<img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png"
+     alt="Single crystals grown by flux method"
+     width="450">
 
 ---
 
