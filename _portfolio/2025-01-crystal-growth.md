@@ -56,8 +56,8 @@ I am experienced in advanced sample preparation workflows, including:
 - Glovebox handling of air-sensitive materials  
 - Safe handling of reactive chemicals  
 
-<img src="/images/portfolio/crystal-growth/blowtorch.jpeg"
-     alt="Quartz tube sealing and furnace growth"
+<img src="{{ site.baseurl }}/images/portfolio/crystal-growth/blowtorch.jpeg"
+     alt="Single crystals grown by flux method"
      width="450">
 
 ---
