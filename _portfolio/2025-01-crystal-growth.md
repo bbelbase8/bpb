@@ -30,7 +30,7 @@ Representative materials synthesized include:
 <br/><img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png"
      alt="Single crystals grown by flux method"
      width="450">
-<img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png"
+<img src="{{ site.baseurl }}/images/portfolio/crystal-growth/GdTe3.jpg"
      alt="Single crystals grown by flux method"
      width="450">
 
@@ -56,7 +56,7 @@ I am experienced in advanced sample preparation workflows, including:
 - Glovebox handling of air-sensitive materials  
 - Safe handling of reactive chemicals  
 
-<img src="/images/portfolio/crystal-growth/BCAO.png"
+<img src="/images/portfolio/crystal-growth/blowtorch.jpeg"
      alt="Quartz tube sealing and furnace growth"
      width="450">
 
