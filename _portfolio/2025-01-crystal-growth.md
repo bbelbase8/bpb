@@ -27,7 +27,9 @@ Representative materials synthesized include:
 - RI₃  
 - BaCo₂(AsO₄)₂  
 - Related rare-earth chalcogenides and intermetallic compounds  
-<br/><img src='/images/500x300.png'>
+<img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png"
+     alt="Single crystals grown by flux method"
+     width="450">
 <img src="{{ site.baseurl }}/images/portfolio/crystal-growth/BCAO.png"
      alt="Single crystals grown by flux method"
      width="450">
