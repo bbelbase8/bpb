@@ -13,8 +13,8 @@ title                    : "Bishnu Prasad Belbase"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   
-url: "https://bbeblase.com.np"
-baseurl: ""
+url: "https://bbeblase8.github.io"
+baseurl: "/bpb"
 repository               : "bbelbase8/bpb"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
