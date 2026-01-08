@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   
 url: "https://bbelbase8.com.np"
-baseurl: "/bpb"
+baseurl: ""
 repository               : "bbelbase8/bpb"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
