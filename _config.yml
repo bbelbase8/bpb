@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Bishnu Prasad Belbase"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "bbelbase8/bpb"
 author:
   # Biographic information
   avatar           : "bishnu.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Bishnu Prasad Belbase"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student in experimental condensed matter physics"
+  location         : "West Lafaytte, Indiana, USA"
+  employer         : "Purdue University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bbelbase@purdue.edu" 
 
   # Academic websites
   academia         : # URL
